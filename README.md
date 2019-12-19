@@ -2,18 +2,9 @@
 ![first](src/images/a.png)
 ![second](src/images/b.png)
 ![third](src/images/c.png)
-
 ![four](src/images/d.png)
-![five][src/images/e.png]
+![five](src/images/e.png)
 
-hi
-
-![first](./images/a.png)
-![second](./images/b.png)
-![third](./images/c.png)
-
-![four](./images/d.png)
-![five][./images/e.png]
 
 1. Simple use of useEffect 
 
